@@ -87,7 +87,7 @@ body {
 }
 
 :root {
-  --background: #e7e5e3;
+  --background: #f6f4ec;
   --foreground: #171717;
 }
 
@@ -102,7 +102,7 @@ body {
 
   /* Custom Color Palette */
   --color-black: #111111;
-  --color-white: #e7e5e3;
+  --color-white: #f6f4ec;
   --color-accent: #2563eb; /* Example accent color - customize as needed */
   --color-accent-light: #3b82f6;
   --color-accent-dark: #1d4ed8;
@@ -128,7 +128,7 @@ body {
 }
 
 .H1 {
-  font-size: clamp(64px, 10vw, 200px);
+  font-size: clamp(64px, 15vw, 300px);
   font-weight: 700;
   line-height: 1;
   letter-spacing: -0.4rem;
